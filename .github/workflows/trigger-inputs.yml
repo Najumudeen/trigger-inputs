@@ -1,1 +1,6 @@
+name: Trigger-Inputs
+on:
+  workflow_dispatch
+jobs:
+  
 
